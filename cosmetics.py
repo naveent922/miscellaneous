@@ -74,5 +74,5 @@ class cosmetics:
         n=self.foundation+self.bbcream+self.eyeliner+self.mascara+self.lipcolor+self.lipstick
         print('total cost is           :',n)
     
-obj1=cosmetics('renu',65758947447,True,True,True,False,True,True)
+obj1=cosmetics('abc',65758947447,True,True,True,False,True,True)
 cosmetics.disp(obj1)
