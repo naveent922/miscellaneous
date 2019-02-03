@@ -24,7 +24,7 @@ class govt:
         self.dob=dob
         
 govt.modify()
-obj1=govt('Naveen',5678943210,'24/02/1998','bharathinagar,chennai','Satyam')
+obj1=govt('Naveen',5678943210,'24/02/1998','Bengaluru','Satyam')
 govt.disp(obj1)
 govt.modifyadhaar(obj1,'Naveen','23/02/1999')
 print()
