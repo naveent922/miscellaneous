@@ -53,6 +53,8 @@ class store:
         print("cost of shirts : ",self.shirts)
         print("cost of pants : ",self.pantz)
         
+        #total cost
+        
         total=self.racket+self.shoe+self.shirts+self.pantz
         print("total cost : ",total)
 
