@@ -42,6 +42,7 @@ class store:
         self.shoe=store.shoe(shoe1)
         self.shirts=store.shirts(shirt1)
         self.pantz=store.pants(pant1)
+        #initialize
         
                           
     def disp(self):
