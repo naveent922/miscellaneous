@@ -5,7 +5,7 @@ class store:
     rackets=2000
     shoes=1000
     shirt=500
-    pant=600
+    pant=650
 
     
     def racket(racket1):
