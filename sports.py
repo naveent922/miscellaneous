@@ -5,7 +5,7 @@ class store:
     rackets=2000
     shoes=1000
     shirt=500
-    pant=600
+    pant=650
 
     
     def racket(racket1):
@@ -42,6 +42,7 @@ class store:
         self.shoe=store.shoe(shoe1)
         self.shirts=store.shirts(shirt1)
         self.pantz=store.pants(pant1)
+        #initialize
         
                           
     def disp(self):
