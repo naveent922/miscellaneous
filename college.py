@@ -2,7 +2,7 @@ class College:
     college_name="Atria"
     principal="Ram"
     college_code="1At01"
-    annual_fees=1000
+    annual_fees=10000
 
     
     @classmethod
